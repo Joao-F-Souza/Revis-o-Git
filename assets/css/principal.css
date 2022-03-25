@@ -5,6 +5,14 @@ body{color: aliceblue;
 #logo img{
     width: 150px;
     border: 2px solid #d8d8d8;
-    border-radios: 150px
+    border-radius: 10
+
 }
 
+.secao{
+    border: 2px solid salmon;
+    border-radius:  10px;
+    padding: 5px;
+    margin-top: 2px;
+margin-bottom: 5px;
+}
