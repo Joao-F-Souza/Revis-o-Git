@@ -35,6 +35,13 @@ listas de tarefas no rrepositório:
 - [ ] Melhorar a documentação do repositório
 - [ ] Ler a documentação sobre *markdown*
 - [ ] Ler a documentação do git/github
+```
+# Branchs
+git branch -> LISTA AS BRANCHS NO COMPUTADOR
+git branch nome_da_nova_branch -> não colocar acento ou ç, e use undescore para os espaços em branco
+git sitch nome_da_branch -> muda de branch
+método alternativo para o GIT SWITCH: git checkout nome_da_branch
+```
 
 ## Referências:
 
